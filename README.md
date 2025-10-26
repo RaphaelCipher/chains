@@ -154,4 +154,3 @@ npx prettier --write _data/*/*.json
  * [Sourcify playground](https://playground.sourcify.dev)
  * [Smart Contract UI](https://xtools-at.github.io/smartcontract-ui)
 
- * Your project - contact us to add it here!
